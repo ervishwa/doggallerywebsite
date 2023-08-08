@@ -1,0 +1,20 @@
+.mynavbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: aquamarine;
+  align-items: center;
+  margin-bottom: 10px;
+  width: 100vw;
+}
+.customButton {
+  width: 10vw;
+  height: 5vh;
+  background-color: aliceblue;
+  margin-right: 2px;
+}
+@media only screen and (max-width: 1269px) {
+  .customButton {
+    height: 39px;
+    width: 147px;
+  }
+}

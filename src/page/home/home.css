@@ -1,0 +1,10 @@
+.dogdata {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto !important;
+}
+.searchbox {
+  display: flex;
+  justify-content: center;
+}
